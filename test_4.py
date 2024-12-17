@@ -13,10 +13,10 @@ def word_mesh(words: list[str]) -> str:
     # Loop on words list to compare each string
     for list_no in range(list_length-1):
 
-        # Stored value and length of words from list based on index as first value and index+1 as second value
-        first_string = words[list_no]
+        # Stored string with lowercase and length of words from list based on index as first value and index+1 as second value
+        first_string = str.lower(words[list_no])
         first_string_length = len(first_string)
-        second_string = words[list_no+1]
+        second_string = str.lower(words[list_no+1])
         second_string_length = len(second_string)
 
         # loop through first value by using list slicing start with incremental index to length of words
