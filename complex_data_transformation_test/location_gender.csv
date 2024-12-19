@@ -1,0 +1,13 @@
+location,gender,total_order,min_amount,max_amount,sum_amount,total_sales
+Bangkok,F,27,10,230,3322,139769
+Bangkok,M,61,12,246,7018,356003
+Chiangmai,F,152,11,249,19787,1025576
+Chiangmai,M,72,10,249,9397,443151
+Chonburi,F,133,11,249,17209,906963
+Chonburi,M,121,11,247,16510,719875
+Khonkaen,F,57,12,246,7091,356010
+Khonkaen,M,39,14,249,5244,304794
+Nan,F,189,10,250,23859,1257629
+Nan,M,162,12,249,20352,1083465
+Phuket,F,98,17,247,13419,676669
+Phuket,M,125,12,247,16660,841993
